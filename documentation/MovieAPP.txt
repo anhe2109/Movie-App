@@ -1,0 +1,31 @@
+Nouns for use cases
+
+Customer
+Account
+System
+Name 
+Password
+Movie
+Database
+Statistics
+Favouritlist
+
+Verbs for use cases
+
+Open
+Asks
+Provides
+Creates
+Welcomes
+Types
+Log in
+Makes
+Chooses
+Add
+Delete
+Update
+Saves
+Search
+Finds
+
+
